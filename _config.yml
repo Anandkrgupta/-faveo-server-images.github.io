@@ -281,12 +281,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 #       related: true
 
 # Faveo Server Images
-This repository contains various scripts &amp; images to install Faveo Helpdesk on various platforms(OS)
+- This repository contains various scripts &amp; images to install Faveo Helpdesk on various platforms(OS)
 
 
 # Installing Faveo (Generic) <!-- omit in toc -->
 
-Faveo can be installed on a variety of platforms. The choice of the platform is yours.
+- Faveo can be installed on a variety of platforms. The choice of the platform is yours.
 
 - [Requirements](#requirements)
 - [Installation instructions for specific platforms](#installation-instructions-for-specific-platforms)
