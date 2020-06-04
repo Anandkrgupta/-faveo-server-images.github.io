@@ -1,12 +1,34 @@
+# example navigation
+docs:
+  - title: Community version
+    subfolderitems:
+      - page: Ubuntu with Apache
+        url: /docs/installation/providers/community/ubuntu-apache
+      - page: CentOS with Apache
+        url: /docs/installation/providers/community/centos-apache
+     
+  - title: Freelancer, paid and Enterprise version
+    subfolderitems:
+      - page: Cent OS with Apache
+        url: /docs/installation/providers/enterprise/centos-apache
+      - page: Cent OS with NGINX
+        url: /docs/installation/providers/enterprise/centos-nginx
+      - page: Ubuntu with Apache
+        url: /docs/installation/providers/enterprise/ubuntu-apache
+      - page: Ubuntu with NGINX
+        url: /docs/installation/providers/enterprise/ubuntu-nginx
+      - page: Windows Server 2019
+        url: /docs/installation/providers/enterprise/windows
+
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+    url: /docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Sample Posts"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
+  - title: "Terms &amp; Privacy Policy"
+    url: /terms/
